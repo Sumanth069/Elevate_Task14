@@ -89,6 +89,12 @@ This project provides hands-on experience in **algorithm selection, model evalua
 
 It helps interns and students understand why **accuracy alone is insufficient** and how to choose models based on business and data requirements.
 
+# Outputs
+
+<img width="706" height="637" alt="Image" src="https://github.com/user-attachments/assets/13a4317e-d300-4832-8a6c-3a6476fda38e" />
+
+<img width="662" height="364" alt="Image" src="https://github.com/user-attachments/assets/215690be-dac0-4b3f-8349-3012760adf0d" />
+
 ---
 
 ## 🚀 How to Run the Project
